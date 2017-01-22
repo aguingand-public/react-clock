@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-settingsPanel {
+  width: 20%;
+  position: absolute;
+  left:0;
+  border: 1px solid black;
+  text-align: left;
+}
+
+.App-playground {
+  margin: 0 auto;
+}
+
+.App-LCDText {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 5em;
+  text-anchor: middle;
+}
+
+.form-row {
+  display: inline-block;
+  margin: 1em;
+}
